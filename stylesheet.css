@@ -7,3 +7,28 @@ p{
   /* Gantikan warna ke #ff000 */
   color: #ff0000;
 }
+h1{
+  /* Gantikan warna ke #F0E68C */
+  color: #F0E68C;
+}
+
+h2{
+  /*gantikan warna ke #DAA520 */
+  color: #DAA520;
+}
+
+p {
+  /* Gantikan warna ke #006400*/
+  color: #006400;
+}
+h1{
+  color: #e6855e;
+  font-size:30px;
+  background-color:#f3f372;
+  height:80px;
+  width:20px;
+}
+img{
+  height:50px;
+  width:70px;
+}
